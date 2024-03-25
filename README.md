@@ -3,7 +3,7 @@
 Quick start:
 
 ```
-$ npm install
-$ npm start
+$ git clone <repo>
 ````
+
 
